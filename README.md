@@ -12,7 +12,6 @@ la forma de usarlo es muy simple
 $("#idform").validate({
 	rules: {
 	    id_input: {
-	      required: true,
 	      documentacion: true
 	    }
   }
